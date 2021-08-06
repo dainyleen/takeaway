@@ -1,6 +1,6 @@
 # Takeaway
 Building a delivery form for a Filipino Food Takeaway
 
-## Check it out
+## GitHub Page
  https://dainyleen.github.io/takeaway
 
